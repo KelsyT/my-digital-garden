@@ -5,5 +5,3 @@ permalink: /about
 ---
 
 *Welcome*
-
-😍
