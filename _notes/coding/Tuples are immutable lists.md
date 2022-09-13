@@ -1,3 +1,7 @@
+---
+title: Tuples are immutable lists
+---
+
 Tuples are immutable (or unchanging) lists for storing items. Tuples look like lists, except with parentheses instead of square brackets.
 
 ```
