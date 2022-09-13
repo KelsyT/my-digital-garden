@@ -1,3 +1,7 @@
+---
+title: Index of coding fundamentals
+---
+
 ## 0. Functions, Variables
 
 [[Functions]]

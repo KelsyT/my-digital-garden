@@ -1,3 +1,7 @@
+---
+title: Functions
+---
+
 CS50: Functions are verbs or actions that the computer or computer language will already know how to perform.
 
 Dojo: a collection of instructions, a collection of code
