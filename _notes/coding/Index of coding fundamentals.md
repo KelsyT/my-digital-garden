@@ -23,6 +23,7 @@ title: Index of coding fundamentals
 
 [[Conditional tests make decisions]]
 [[if]]
+[[bool]]
 [[Control flow]] 
 [[elif]]
 [[else]]
