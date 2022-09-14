@@ -2,7 +2,9 @@
 title: Operators compare values
 ---
 
-Operators (From CS50P):
+Operators compare values in a [[Conditional tests make decisions|conditional test]].
+
+From CS50P:
 
 -   Built within Python are a set of “operators” that are used to ask mathematical questions.
 -   `>` and `<` symbols are probably quite familiar to you.
