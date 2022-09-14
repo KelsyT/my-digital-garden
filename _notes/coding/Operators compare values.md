@@ -1,5 +1,5 @@
 ---
-title: Operators ask math questions
+title: Operators compare values
 ---
 
 Operators (From CS50P):
