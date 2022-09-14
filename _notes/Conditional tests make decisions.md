@@ -1,1 +1,5 @@
-Conditional tests are expressions which are evaulated to find whether an[[if| if statement]] is true or false.
+---
+title: Conditional tests make decisions
+---
+
+Expressions that are evaluated to determine if an[[if| if statement]] is true or false are known as conditional tests. These examine a set of conditions and decide which action to take.
