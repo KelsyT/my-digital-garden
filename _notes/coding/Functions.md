@@ -10,7 +10,7 @@ Crash Course:
 
 ### Scope:
 
-```
+```python
 def function1():
     print("ahhhh")
     print("ahhhhh 2")
@@ -42,7 +42,7 @@ functions must be defined with [[def]]
 
 instructions in a function must be indented
 
-```
+```python
 def greet():
 	print("Hi there")
 	print("Welcome aboard")

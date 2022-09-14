@@ -42,7 +42,7 @@ Tuples with one element can be often found when generated automatically.
 
 To loop through a tuple, treat it as a list.
 
-```
+```python
 dimensions = (200, 50)
 for dimension in dimensions:
 	print(dimension)
@@ -55,3 +55,19 @@ for dimension in dimensions:
 
 ### Writing over a tuple
 
+Tuples can be overwritten by assigning a new value to a variable that represents the tuple.
+
+```python
+dimensions = (200, 50)
+
+for dimension in dimensions:
+
+
+    print(dimension)
+
+dimensions = (200, 50)
+
+for dimension in dimensions:
+
+    print(dimension)
+```

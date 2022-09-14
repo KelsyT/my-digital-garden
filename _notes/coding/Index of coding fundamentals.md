@@ -21,11 +21,12 @@ title: Index of coding fundamentals
 
 ## 1. Conditionals
 
-[[Conditionals]]
-[[if]]
+[[Conditional tests make decisions]]
+[[if tests execute when true]]
+[[bools are either true or false]]
 [[Control flow]] 
-[[elif]]
-[[else]]
+[[elif tests execute when true in sequence]]
+[[else tests execute when all other tests are false]]
 [[or]]
 [[and]]
 [[Modulo]]
