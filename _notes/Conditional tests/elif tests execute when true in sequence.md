@@ -1,3 +1,7 @@
+---
+title: elif tests execute when true in sequence
+---
+
 When more than two possible situations need to be tested, use an `elif`. In an `if-elif-else` chain, only one block of code is executed. It runs each [[Conditional tests make decisions|conditional test]] in order until one is true. When it is true, the code following that test is executed and Python skips the rest of the tests.
 
 ```python

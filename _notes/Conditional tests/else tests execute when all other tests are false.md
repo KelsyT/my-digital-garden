@@ -1,1 +1,5 @@
-`else` tests define an action(s) to be executed when the [[Conditional tests make decisions|conditional test]] fails. The `else` test is a catchall statement. It matches and condition that wasn't matched by a specific [[If tests execute when true|if]] or [[elif tests execute when true in sequence|elif]] 
+---
+title: else tests execute when all other tests are false
+---
+
+`else` tests are a catchall statement. It matches any condition that wasn't matched by a specific [[if tests execute when true|if]] or [[elif tests execute when true in sequence|elif]] 
