@@ -55,3 +55,8 @@ for dimension in dimensions:
 
 ### Writing over a tuple
 
+Tuples can be overwritten by assigning a new value to a variable that represents the tuple.
+
+```
+
+```
