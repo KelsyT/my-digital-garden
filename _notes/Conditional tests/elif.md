@@ -1,4 +1,4 @@
-Elifs are appropriate when more than two possible situations need to be tested. In an `if-elif-else` chain, only one block of code is executed. It runs each [[Conditional tests make decisions|conditional test]] in order until one passes. When a test passes, the code following that test is executed and Python skips the rest of the tests.
+When more than two possible situations need to be tested, use an `elif`. In an `if-elif-else` chain, only one block of code is executed. It runs each [[Conditional tests make decisions|conditional test]] in order until one is true. When it is true, the code following that test is executed and Python skips the rest of the tests.
 
 ```python
 age = 12
