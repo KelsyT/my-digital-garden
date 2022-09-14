@@ -18,5 +18,5 @@ elif age >= 65:
 print(f"Your admission cost is ${price}.")
 ```
 
-In the code above, there is no [[else tests execute when all other tests are false|else]] statement. This means that every block of code must pass a specific test in order to be executed. 
+In the code above, there is no [[else tests execute when all other tests are false|else]] test. This means that every block of code must pass a specific test in order to be executed. 
 

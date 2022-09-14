@@ -25,7 +25,7 @@ title: Index of coding fundamentals
 [[If tests execute when true]]
 [[Bools are either true or false]]
 [[Control flow]] 
-[[elif tests for true in sequence]]
+[[elif tests execute when true in sequence]]
 [[else tests execute when all other tests are false]]
 [[or]]
 [[and]]
