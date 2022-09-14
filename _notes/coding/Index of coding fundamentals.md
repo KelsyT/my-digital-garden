@@ -21,7 +21,7 @@ title: Index of coding fundamentals
 
 ## 1. Conditionals
 
-[[Conditionals]]
+[[Conditional tests make decisions]]
 [[if]]
 [[Control flow]] 
 [[elif]]
