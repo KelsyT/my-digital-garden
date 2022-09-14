@@ -1,4 +1,4 @@
-If tests use [[Bools are either true or false|bools]] or boolean values (`True` or `False`) to decide whether or not to execute. If the test of `x > y` is true, the compiler will register it as `True` and execute the code.
+`if` tests use [[Bools are either true or false|bools]] or boolean values (`True` or `False`) to decide whether or not to execute. If the test of `x > y` is true, the compiler will register it as `True` and execute the code.
 
 ```python
 x = 3
