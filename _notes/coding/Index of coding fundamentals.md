@@ -26,7 +26,7 @@ title: Index of coding fundamentals
 [[Bools are either true or false]]
 [[Control flow]] 
 [[elif]]
-[[else statements exceute when tests fail]]
+[[else statements execute when all other tests fail]]
 [[or]]
 [[and]]
 [[Modulo]]
