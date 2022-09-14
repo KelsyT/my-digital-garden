@@ -1,0 +1,1 @@
+The else statement allows you to define an action or set of actions that are executed when the [[Conditional tests make decisions|conditional test]] fails.
