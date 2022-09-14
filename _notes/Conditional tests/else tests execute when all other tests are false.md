@@ -1,0 +1,1 @@
+The else statement allows you to define an action or set of actions that are executed when the [[Conditional tests make decisions|conditional test]] fails. The `else` block is a catchall statement. It matches and condition that wasn't matched by a specific [[If tests execute when true|if]] or [[elif tests for true in sequence|elif]] 
