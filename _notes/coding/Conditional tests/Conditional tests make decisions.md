@@ -10,4 +10,4 @@ Expressions that are evaluated to determine whether an[[An if test executes when
 True
 ```
 
-If you want t
+If you want only one block of code to run, use an if-elif-else chain. If more than one block of code needs to run, use a series of independent if tests.
