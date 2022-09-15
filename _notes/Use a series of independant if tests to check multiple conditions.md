@@ -1,6 +1,8 @@
 ---
-title: Use a series of if tests to check multiple conditions
+title: Use a series of independant if tests to check multiple conditions
 ---
+
+
 
 ```python
 available_toppings = ['mushrooms', 'olives', 'green peppers',
