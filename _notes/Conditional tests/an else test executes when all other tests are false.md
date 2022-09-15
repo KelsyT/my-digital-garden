@@ -1,8 +1,8 @@
 ---
-title: an else test executes when all other tests are false
+title: An else test executes when all other tests are false
 ---
 
-`else` tests are a catchall statement. It matches any condition that wasn't matched by a specific [[if tests execute when true|if]] or [[an elif test executes when true in sequence|elif]] test, and that can sometimes include invalid or even malicious data. If you have a specific final condition you are testing for, consider using a final `elif` block and omit the `else` block. As a result, you'll gain extra confidence that your code will run only under the correct conditions.
+`else` tests are a catchall statement. It matches any condition that wasn't matched by a specific [[An if test executes when true|if]] or [[An elif test executes when true in sequence|elif]] test, and that can sometimes include invalid or even malicious data. If you have a specific final condition you are testing for, consider using a final `elif` block and omit the `else` block. As a result, you'll gain extra confidence that your code will run only under the correct conditions.
 
 ```python
 #amusement park

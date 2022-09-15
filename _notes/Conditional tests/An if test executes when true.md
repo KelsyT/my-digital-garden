@@ -1,5 +1,5 @@
 ---
-title: if tests execute when true
+title: An if test executes when true
 ---
 
 `if` tests use [[bools are either true or false|bools]] or boolean values (`True` or `False`) to decide whether or not to execute. If the test of `x > y` is true, the compiler will register it as `True` and execute the code.
