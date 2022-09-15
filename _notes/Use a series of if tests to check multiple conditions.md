@@ -1,5 +1,5 @@
 ---
-title: Use a series of if tests to check many conditions
+title: Use a series of if tests to check multiple conditions
 ---
 
 ```python

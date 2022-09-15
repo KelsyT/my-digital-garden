@@ -2,7 +2,7 @@
 title: An elif test executes when true in sequence
 ---
 
-When more than two possible situations need to be tested, use an `elif`. In an [[Abn if-elif-else chain tests if one specific condition is true|if-elif-else chain]], only one block of code is executed. It runs each [[Conditional tests make decisions|conditional test]] in order until one is true. When it is true, the code following that test is executed and Python skips the rest of the tests.
+When more than two possible situations need to be tested, use an `elif`. In an [[An if-elif-else chain tests if one specific condition is true|if-elif-else chain]], only one block of code is executed. It runs each [[Conditional tests make decisions|conditional test]] in order until one is true. When it is true, the code following that test is executed and Python skips the rest of the tests.
 
 ```python
 #amusemusnt park
