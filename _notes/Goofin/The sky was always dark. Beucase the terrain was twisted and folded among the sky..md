@@ -1,3 +1,3 @@
 CJ's, cyclical cycling jack hammers, jbirds, jaileros jobots. Tiny (the size of a waffle-maker) clusters of roombas designed to clean your home, but also to defend it. They patrol entrances and exits while cleaning and watch for an opportunity to strike an intruder with tranquillizer darts and a stun baton.
 
-China and USA unite to build tourist mega structures in Alaska, including an airport which engulfed the southern coast line near. Russia 
+China and USA unite to build tourist mega structures in Alaska, including an airport which engulfed the Toiak Wilderness, destorying pristine rivers, lakes, and steep-sloped mountains, including the rugged Ahklun Mountains and Wood River Range. Russia 
