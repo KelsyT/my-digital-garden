@@ -1,3 +1,3 @@
 CJ's, cyclical cycling jack hammers, jbirds, jaileros jobots. Tiny (the size of a waffle-maker) clusters of roombas designed to clean your home, but also to defend it. They patrol entrances and exits while cleaning and watch for an opportunity to strike an intruder with tranquillizer darts and a stun baton.
 
-China and USA unite to build a city comprised of mega structures engulfing the pristine lakes and rivers of the Alaskan wilderness. These were made to attract tourists from both countries. A city above the Ahklun Mountains. no one lived in -- only visited.  
+China and USA unite to build a city of mega structures engulfing the pristine lakes and rivers of the Alaskan wilderness. The city attracted tourists from both countries. A city where many slept but no one lived -- only visited. They called it 
