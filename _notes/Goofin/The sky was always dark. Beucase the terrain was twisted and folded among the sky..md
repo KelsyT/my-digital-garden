@@ -4,4 +4,4 @@ China and USA unite to build a city of mega structures engulfing the pristine la
 
 Low on the ground where few people would be, vegetation hid sealed conveyor belts. These stranded away from the city, bussing resources in and out. The factories would convert raw resources into chemical form where they could be constructed into nano structures, and then assembled into material used to maintain the mega structures. These factories sat lowest in these structures and were fed directly by the belts.
 
-The structures dominated the Togiak valley at a mile tall. They stretched in angles on the flattest ground in the . 
+The structures dominated the Togiak valley at 700 feet tall Someone with good vision could make out the details that were carved into the stone surface all the way from top to bottom. The structures outside edges stretched in angles where the ground was flattest.
