@@ -1,6 +1,6 @@
-CJ's, cyclical cycling jack hammers, jbirds, jaileros jobots. Tiny (the size of a waffle-maker) clusters of roombas designed to clean your home, but also to defend it. They patrol entrances and exits while cleaning and watch for an opportunity to strike an intruder with tranquillizer darts and a stun baton.
+CJ's, cyclical cycling jack hammers, jbirds, jaileros and jobots. Tiny (the size of a waffle-maker) clusters of roombas designed to clean your home, but also to defend it. They patrol entrances and exits while cleaning and watch for an opportunity to strike an intruder with tranquillizer darts and a stun baton.
 
-China and USA unite to build a city of mega structures engulfing the pristine lakes and rivers of the Alaskan wilderness. The city attracted tourists from both countries. A city where many slept but no one lived -- only visited. The city was called Ahklun, named after the surrounding mountains which were carved flat so that the city could be assembled.
+China and USA unite to build a city of mega structures engulfing the pristine lakes and rivers of the Alaskan wilderness. The city attracted tourists from both countries. A city where many slept but no one lived -- only visited. It was named Ahklun, after the surrounding mountains which were eventually carved flat under the cities growing assembly.
 
 Low on the ground where few people would be, vegetation hid sealed conveyor belts. These stranded away from the city, bussing resources in and out. The factories would convert raw resources into chemical form where they could be constructed into nano structures, and then assembled into material used to maintain the mega structures. These factories sat lowest in these structures and were fed directly by the belts.
 
