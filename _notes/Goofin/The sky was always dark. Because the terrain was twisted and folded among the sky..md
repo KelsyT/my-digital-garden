@@ -6,3 +6,4 @@ Low on the ground where few people would be, vegetation hid sealed conveyor belt
 
 The structures dominated the Togiak valley at 700 feet tall. Someone with good vision could make out the details that were carved into the stone surface all the way from top to bottom. The structures outside edges stretched in angles where the ground was flattest. 
 
+Charlie grew up around the base of the city, closest to the belts. Tier one of AhklunThis first tier of the city sat high off the ground but close enough to retain some of the climate and humidity from the earth below.
