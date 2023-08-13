@@ -8,7 +8,7 @@ Each tier represents different levels of importance and flexibility:
 
 3. **Critical**: C - BRIGHT PINK - These tasks are essential to your main priorities or goals. They are represented in a bright color, similar to Bottlenecks. These tasks may be habits or activities critical to your success. 
 
-4. **Daily Routine**: D - GREY - These are the tasks you do daily to maintain your routine, including blocking time for sleep. They are represented in a regular color, and the creator suggests "graying out" completed tasks as a way of tracking your progress. 
+4. **Daily Routine**: D - NUETRAL TONE - These are the tasks you do daily to maintain your routine, including blocking time for sleep. They are represented in a regular color, and the creator suggests "graying out" completed tasks as a way of tracking your progress. 
 
 5. **Dream Self**: F - NEUTRAL YELLOW - This tier represents tasks that your ideal self would do, even though they are not crucial to your day-to-day operations. They are more flexible and can be deleted if they don't get completed. 
 
